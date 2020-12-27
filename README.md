@@ -1,2 +1,2 @@
-# prm-parser
-Allows quick editing of Nintendo's .prm files through the cli
+# sms-tools
+Various python scripts I've made to handle different files in SMS
